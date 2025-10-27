@@ -1,1 +1,3 @@
 # ROBOTIC_ARM_SOLIDWORK
+
+![IMAGE 1](logo.png)
